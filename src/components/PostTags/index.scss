@@ -1,0 +1,13 @@
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  div {
+    display: inline-block;
+    font-size: small;
+    border-radius: 3px;
+    padding: 2px 8px;
+  }
+}
