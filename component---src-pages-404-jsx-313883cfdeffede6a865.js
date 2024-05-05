@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_oasis=self.webpackChunkgatsby_starter_oasis||[]).push([[415],{3729:function(e,t,s){s.r(t);var n=s(6540),a=s(1626),r=s(1956);t.default=()=>n.createElement(r.P,{belongs:"none"},n.createElement(a.G,{title:"404 Not Found"}),n.createElement("h1",null,"404 Not Found"),n.createElement("div",null,"This request URL is not found on this server"))}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-313883cfdeffede6a865.js.map
