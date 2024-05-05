@@ -21,7 +21,7 @@ jobs:
     # node.js 를 사용합니다.
     - uses: actions/setup-node@v3
       with:
-        node-version: 18 # 버전은 입맛대로 바꾸세요
+        node-version: v20.12.2
 
     - run: npm ci # package-lock.json 에 적혀있는 패키지를 그~대로 설치합니다.
     - run: npm run build-step2 # package.json에 빌드 스크립트를 여기 적으세요
